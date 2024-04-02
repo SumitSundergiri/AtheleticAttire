@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# AthleticAttire-E-commerce-website
+Full-stack e-commerce website built with Spring Boot and React.js. Features include product browsing, user authentication, and order management. Ideal for showcasing full-stack development skills.
+>>>>>>> 80a1e2d287803f1797b23249fc4634922bc3eea8

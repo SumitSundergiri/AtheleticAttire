@@ -14,7 +14,7 @@ const AddProduct = () => {
         category: '',
         image: ''
     });
-    // This is iPhone 12 mini  front 12mp camera and Rear 12mp+12mp camera
+    // This is wrist Band  
     const addProducts = (evt) => {
         evt.preventDefault();
         // console.log(userId);
